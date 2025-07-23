@@ -1,0 +1,84 @@
+﻿  OOP as it Should Be (Applications).cpp
+C:\Users\Mohammed\Downloads\Telegram Desktop\OOP as it Should Be (Applications)\OOP as it Should Be (Applications)\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'OOP%20as%20it%20Should%20Be%20(Applications).cpp')
+  
+C:\Users\Mohammed\Downloads\Telegram Desktop\OOP as it Should Be (Applications)\OOP as it Should Be (Applications)\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'OOP%20as%20it%20Should%20Be%20(Applications).cpp')
+  
+C:\Users\Mohammed\Downloads\Telegram Desktop\OOP as it Should Be (Applications)\OOP as it Should Be (Applications)\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'OOP%20as%20it%20Should%20Be%20(Applications).cpp')
+  
+C:\Users\Mohammed\Downloads\Telegram Desktop\OOP as it Should Be (Applications)\OOP as it Should Be (Applications)\clsString.h(197,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'OOP%20as%20it%20Should%20Be%20(Applications).cpp')
+  
+C:\Users\Mohammed\Downloads\Telegram Desktop\OOP as it Should Be (Applications)\OOP as it Should Be (Applications)\clsString.h(328,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'OOP%20as%20it%20Should%20Be%20(Applications).cpp')
+  
+C:\Users\Mohammed\Downloads\Telegram Desktop\OOP as it Should Be (Applications)\OOP as it Should Be (Applications)\clsString.h(376,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'OOP%20as%20it%20Should%20Be%20(Applications).cpp')
+  
+C:\Users\Mohammed\Downloads\Telegram Desktop\OOP as it Should Be (Applications)\OOP as it Should Be (Applications)\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'OOP%20as%20it%20Should%20Be%20(Applications).cpp')
+  
+C:\Users\Mohammed\Downloads\Telegram Desktop\OOP as it Should Be (Applications)\OOP as it Should Be (Applications)\clsUser.h(198,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'OOP%20as%20it%20Should%20Be%20(Applications).cpp')
+      C:\Users\Mohammed\Downloads\Telegram Desktop\OOP as it Should Be (Applications)\OOP as it Should Be (Applications)\clsUser.h(26,12):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+C:\Users\Mohammed\Downloads\Telegram Desktop\OOP as it Should Be (Applications)\OOP as it Should Be (Applications)\clsInputValidate.h(115,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OOP%20as%20it%20Should%20Be%20(Applications).cpp')
+  
+C:\Users\Mohammed\Downloads\Telegram Desktop\OOP as it Should Be (Applications)\OOP as it Should Be (Applications)\clsInputValidate.h(119,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OOP%20as%20it%20Should%20Be%20(Applications).cpp')
+  
+C:\Users\Mohammed\Downloads\Telegram Desktop\OOP as it Should Be (Applications)\OOP as it Should Be (Applications)\clsBankClient.h(206,12): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'OOP%20as%20it%20Should%20Be%20(Applications).cpp')
+      C:\Users\Mohammed\Downloads\Telegram Desktop\OOP as it Should Be (Applications)\OOP as it Should Be (Applications)\clsBankClient.h(152,12):
+      see declaration of 'clsBankClient::stTransferLogRecord'
+  
+C:\Users\Mohammed\Downloads\Telegram Desktop\OOP as it Should Be (Applications)\OOP as it Should Be (Applications)\clsBankClient.h(28,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OOP%20as%20it%20Should%20Be%20(Applications).cpp')
+  
+C:\Users\Mohammed\Downloads\Telegram Desktop\OOP as it Should Be (Applications)\OOP as it Should Be (Applications)\clsBankClient.h(162,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OOP%20as%20it%20Should%20Be%20(Applications).cpp')
+  
+C:\Users\Mohammed\Downloads\Telegram Desktop\OOP as it Should Be (Applications)\OOP as it Should Be (Applications)\clsBankClient.h(163,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OOP%20as%20it%20Should%20Be%20(Applications).cpp')
+  
+C:\Users\Mohammed\Downloads\Telegram Desktop\OOP as it Should Be (Applications)\OOP as it Should Be (Applications)\clsBankClient.h(164,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OOP%20as%20it%20Should%20Be%20(Applications).cpp')
+  
+C:\Users\Mohammed\Downloads\Telegram Desktop\OOP as it Should Be (Applications)\OOP as it Should Be (Applications)\clsBankClient.h(421,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OOP%20as%20it%20Should%20Be%20(Applications).cpp')
+  
+C:\Users\Mohammed\Downloads\Telegram Desktop\OOP as it Should Be (Applications)\OOP as it Should Be (Applications)\clsBankClient.h(434,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OOP%20as%20it%20Should%20Be%20(Applications).cpp')
+  
+C:\Users\Mohammed\Downloads\Telegram Desktop\OOP as it Should Be (Applications)\OOP as it Should Be (Applications)\clsAddNewClientScreen.h(30,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OOP%20as%20it%20Should%20Be%20(Applications).cpp')
+  
+C:\Users\Mohammed\Downloads\Telegram Desktop\OOP as it Should Be (Applications)\OOP as it Should Be (Applications)\clsUpdateClientScreen.h(47,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OOP%20as%20it%20Should%20Be%20(Applications).cpp')
+  
+C:\Users\Mohammed\Downloads\Telegram Desktop\OOP as it Should Be (Applications)\OOP as it Should Be (Applications)\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'OOP%20as%20it%20Should%20Be%20(Applications).cpp')
+  
+C:\Users\Mohammed\Downloads\Telegram Desktop\OOP as it Should Be (Applications)\OOP as it Should Be (Applications)\clsTransferScreen.h(42,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OOP%20as%20it%20Should%20Be%20(Applications).cpp')
+  
+C:\Users\Mohammed\Downloads\Telegram Desktop\OOP as it Should Be (Applications)\OOP as it Should Be (Applications)\clsTransferScreen.h(47,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OOP%20as%20it%20Should%20Be%20(Applications).cpp')
+  
+C:\Users\Mohammed\Downloads\Telegram Desktop\OOP as it Should Be (Applications)\OOP as it Should Be (Applications)\clsCurrency.h(27,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OOP%20as%20it%20Should%20Be%20(Applications).cpp')
+  
+C:\Users\Mohammed\Downloads\Telegram Desktop\OOP as it Should Be (Applications)\OOP as it Should Be (Applications)\clsUpdateCurrencyRateScreen.h(17,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OOP%20as%20it%20Should%20Be%20(Applications).cpp')
+  
+C:\Users\Mohammed\Downloads\Telegram Desktop\OOP as it Should Be (Applications)\OOP as it Should Be (Applications)\clsCurrencyCalculatorScreen.h(17,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OOP%20as%20it%20Should%20Be%20(Applications).cpp')
+  
+C:\Users\Mohammed\Downloads\Telegram Desktop\OOP as it Should Be (Applications)\OOP as it Should Be (Applications)\clsBankClient.h(376,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\Mohammed\Downloads\Telegram Desktop\OOP as it Should Be (Applications)\OOP as it Should Be (Applications)\clsUser.h(360,1): warning C4715: 'clsUser::Save': not all control paths return a value
+C:\Users\Mohammed\Downloads\Telegram Desktop\OOP as it Should Be (Applications)\OOP as it Should Be (Applications)\clsBankClient.h(438,1): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+  OOP as it Should Be (Applications).vcxproj -> C:\Users\Mohammed\Downloads\Telegram Desktop\OOP as it Should Be (Applications)\x64\Debug\OOP as it Should Be (Applications).exe
